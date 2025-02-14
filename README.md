@@ -1,16 +1,48 @@
-# country_info_app
+# 🌍 Country Info App
 
-A new Flutter project.
+A Flutter application that provides details about different countries, including their flags, capitals, and more. The app fetches country data from an API, includes a search function, and supports light/dark mode.
 
-## Getting Started
+## 📌 Table of Contents
+- [📸 Screenshots](#-screenshots)
+- [🔥 Features](#-features)
+- [🚀 Getting Started](#-getting-started)
+- [⚙️ Setup & Installation](#️-setup--installation)
+- [📦 Dependencies](#-dependencies)
+- [📄 Contributing](#-contributing)
+- [🔗 Contact](#-contact)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots  
+*(Include relevant screenshots of your app here)*  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔥 Features
+✅ Fetches country data using REST API  
+✅ Dark & Light mode support  
+✅ Search functionality for country names  
+✅ Displays country flags and capitals  
+✅ Fully responsive UI  
+
+---
+
+## 🚀 Getting Started
+Follow these instructions to set up and run the project on your local machine.
+
+### Prerequisites
+Ensure you have the following installed:
+- Flutter SDK (latest stable version)  
+- Dart SDK  
+- Android Studio / VS Code  
+- A device/emulator for testing  
+
+---
+
+## ⚙️ Setup & Installation
+
+### 1️⃣ Clone the Repository
+```sh
+git clone https://github.com/Dessybaba/country_info_app.git
+cd country_info_app
+test online with https://appetize.io/app/b_x5ce3mxmk4ky362gwohiorn3t4
