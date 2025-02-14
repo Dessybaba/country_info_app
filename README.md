@@ -3,7 +3,6 @@
 A Flutter application that provides details about different countries, including their flags, capitals, and more. The app fetches country data from an API, includes a search function, and supports light/dark mode.
 
 ## 📌 Table of Contents
-- [📸 Screenshots](#-screenshots)
 - [🔥 Features](#-features)
 - [🚀 Getting Started](#-getting-started)
 - [⚙️ Setup & Installation](#️-setup--installation)
